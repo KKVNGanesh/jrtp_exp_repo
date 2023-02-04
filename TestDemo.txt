@@ -2,4 +2,6 @@ public cladd DemoTest{
 
 System.out.println("File changed");
 
+System.out.println("Added in repositery");
+
 }
